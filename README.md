@@ -5,6 +5,17 @@
   <p align="center">
     <strong>A modern healthcare patient management system</strong>
   </p>
+
+
+
+<p align="center">
+    <a href="https://chandramohan-code.wistia.com/medias/n3jzqubwnx" target="_blank">
+  <img src="https://img.shields.io/badge/🎥_Video_Demo-Watch_Now-2ea44f?style=for-the-badge" alt="Video Demo" />
+</a>
+  </p>
+
+
+
   
   <p align="center">
     <a href="https://healthcare-cure-link.vercel.app/" target="_blank">
@@ -230,11 +241,6 @@ If you encounter any issues or have questions:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 

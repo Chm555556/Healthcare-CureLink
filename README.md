@@ -191,6 +191,20 @@ Healthcare-CureLink/
 
 ---
 
+## 🎬 Video Demo
+
+Click the image below to watch the full video demo :
+
+[![Video Demo Preview](https://ucarecdn.com/fd1c926b-a932-489f-8d9e-e7eceae56599/thumbnail_with_play_button.png)](https://chandramohan-code.wistia.com/medias/n3jzqubwnx)
+
+In this video, you will see:
+- An introduction to Healthcare-CureLink.
+- Patient registration and profile creation.
+- Booking and managing appointments.
+- Administrative features and dashboard overview.
+---
+
+
 ## 📱 Screenshots
 
 <div align="center">
